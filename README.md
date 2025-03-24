@@ -84,8 +84,6 @@ Administrators do not have access to server management.
 
 ### 🚧 Current Tasks
 - [ ] Cryptomus payment
-- [ ] Trial period
-- [ ] Referral system
 - [ ] Statistics
 - [ ] User editor
 - [ ] Plans editor
@@ -293,3 +291,5 @@ You can support me via the following methods:
 - **TON:** `UQDogBlLFgrxkVWvDJn6YniCwrJDro7hbk5AqDMoSzmBQ-KQ`
 
 Any support will help me dedicate more time to development and accelerate the project!
+
+Original repository: https://github.com/snoups/3xui-shop
